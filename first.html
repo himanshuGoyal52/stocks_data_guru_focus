@@ -1,0 +1,642 @@
+
+
+     Highcharts.wrap(Highcharts.Axis.prototype, 'getPlotLinePath', function(proceed) {
+        var path = proceed.apply(this, Array.prototype.slice.call(arguments, 1));
+        if (path) {
+            path.flat = false;
+        }
+        return path;
+    });
+
+        var seriesOptions = [],
+            yAxisOptions = [],
+            series_id_array = [],
+            term_key='pe',
+            term_name = 'pe',
+            symbol='NSE:TATAMOTORS',
+            medians = [],
+            median = null,
+            selectedDateIdx = 3,
+            startTime = 0;
+
+        // createTermChart('a');
+
+        function createTermChart(type='a'){
+            if (type=='a'){
+                var typeName = ' Annual ';
+            }else{
+                var typeName = ' Quarterly ';
+            }
+
+            startTime = 0 
+            switch (selectedDateIdx) {
+                case 0:
+                    startTime = new Date(new Date().getFullYear(), 0, 1).getTime();
+                    break;
+                case 1:
+                    startTime = Date.now() - 365 * 24 * 3600000;
+                    break;
+                case 2:
+                    startTime = Date.now() - 3 * 365.25 * 24 * 3600000;
+                    break;
+                case 3:
+                    startTime = Date.now() - 5 * 365.25 * 24 * 3600000;
+                    break;
+                case 4:
+                    startTime = Date.now() - 10 * 365.25 * 24 * 3600000;
+                    break;
+                case 5:
+                    startTime = Date.now() - 15 * 365.25 * 24 * 3600000;
+                    break;
+                case 6:
+                    startTime = 0;
+                    break;
+                default:
+                    startTime = 0;
+            }
+
+
+
+            $.get( "/modules/chart/interactive_chart_json_morn.php?symbol="+symbol+"&ser="+term_key+"&fp="+type, function( data ) {
+
+                var json = $.parseJSON(data);
+                if (term_key == 'fscore') {
+                    for (let i = 0; i < json[1].length; i ++) {
+                        if (json[1][i][1] == 9999) {
+                            json[1].splice(i,1);
+                            i--;
+                        }
+                    }
+                }
+                seriesOptions[0] = {
+
+                    animation: false,
+
+                    lineWidth: 3,
+
+                    yAxis: '1',
+
+                    name: symbol+': '+ typeName + term_name,
+
+                    data: json[1]
+                };
+
+                let index = 1
+                var nullValueCount = 0;
+                for(var i = 0; i < json[1].length; ++i){
+                    if(json[1][i][1] === null) {
+                        nullValueCount++;
+                    }
+                }
+                if (json[1].length - nullValueCount < 2 ) {
+                    return;
+                }
+                // Get trendline
+                $.ajax({
+                   url: '/modules/chart/interactive_chart_json_morn.php',
+                   type: 'POST',
+                   data: {trendline:1 , data:JSON.stringify(json[1].filter(item => item[0] >= startTime - (Date.now() - startTime) * 0.1 ))},
+                   success: function(data){
+                        jsonTrendline = $.parseJSON(data)
+                        if(jsonTrendline && jsonTrendline.data.length > 1 && jsonTrendline.data){
+                            if(jsonTrendline.trend){
+                                seriesOptions[index] = {
+                                    animation: false,
+                                    lineWidth: 1,
+                                    name: term_name+ ' Growth Trendline (Growth rate : '+jsonTrendline.trend  +'/year)',
+                                    data: jsonTrendline.data
+                                };
+                            } else {
+                            seriesOptions.splice(index, 1)
+                        }
+                        } else {
+                            seriesOptions.splice(index, 1)
+                        }
+                        createChart(seriesOptions);
+                    },
+                   error: function(xhr, ajaxOptions, thrownError) {
+                      alert('data error');
+                    }
+                 });
+             
+            });
+
+        }
+
+        var termChart;
+
+        Highcharts.setOptions({
+            lang: {
+                rangeSelectorZoom: '',
+                myButtonTitle: 'Embed Chart'
+            },
+            colors: ['#0EB45A', '#0F22B1', '#FF0000', '#DDDF00', '#24CBE5', '#64E572', '#FF9655', '#FFF263', '#6AF9C4'],
+            chart: {
+                borderRadius: 0,
+                borderWidth: 0,
+                backgroundColor: '#FFF',
+                plotBorderColor: '#558ED5',
+                plotBorderWidth: 1,
+                plotBackgroundColor: {
+                    linearGradient: {
+                        x1: 0,
+                        y1: 0,
+                        x2: 0,
+                        y2: 1
+                    },
+                    stops: [
+                        [0, '#8EB4E3'],
+                        [1, '#FFF']
+                    ]
+                }
+            },
+            yAxis: {
+                tickWidth: 1,
+                tickColor: '#558ED5',
+                lineColor: '#558ED5',
+                gridLineColor: '#558ED5',
+                labels: {
+                    style: {
+                        color: '#000',
+                        fontSize: '11px'
+                    }
+                }
+            },
+            xAxis: {
+                tickColor: '#558ED5',
+                lineColor: '#558ED5',
+                labels: {
+                    style: {
+                        color: '#000',
+                        fontSize: '11px'
+                    }
+                }
+            }
+        });
+
+        yAxisOptions[0] = {
+
+            tickWidth: 0,
+            id: '1',
+            name: '1',
+            type: 'linear',
+            labels: {
+                align: 'left',
+                x: 3,
+                y: 4
+
+            },
+            lineWidth: 0,
+            minorTickInterval: null,
+
+            opposite: true,
+
+            offset: 0,
+            type: 'linear',
+            plotLines: []
+        };
+
+
+    function createChart(seriesOptions){
+
+        // remove uncomputed point
+        for (const option of seriesOptions) {
+            if (option.data) option.data = option.data.filter(item => item[1]!=9999&&item[1]!=10000)
+        }
+        
+        // If chart 
+        if(termChart){
+            termChart.destroy();
+        }
+
+        let showMedian = document.getElementById('median') ? document.getElementById('median').checked : false
+        // add median plotlines
+        if (showMedian) {
+            if (!medians[selectedDateIdx]) {
+                
+                let arr = seriesOptions[0].data.slice().filter(item => item[1] && !isNaN(item[1]) && item[1] != 9999 && item[1] != 10000 && item[0] >= startTime)
+                arr.sort((a,b) => a[1] - b[1])
+                if (arr.length > 0) {
+                    let mid = Math.floor(arr.length / 2)
+                    median = ((arr.length % 2 == 0 && arr.length >= 2) ? (arr[mid][1] + arr[mid+1][1]) / 2 : arr[mid][1]).toFixed(2)
+                    median = +median
+                    medians[selectedDateIdx] = median
+                }
+                
+            } else {
+                median = medians[selectedDateIdx]
+            }
+            
+            yAxisOptions[0].plotLines[0] = {
+                color: 'red',
+                width: 2,
+                value: median,
+                label: { text: 'Median: '+median }
+            }
+        } else { // clear plotlines
+            yAxisOptions[0].plotLines = []
+        }
+
+        termChart = new Highcharts.StockChart({
+            chart: {
+                renderTo: 'per_share_chart',
+                marginTop: 0,
+                marginLeft: 1,
+                events: {
+                    load: function() {
+
+                        draw_tags_per_share_chart(this);
+
+                        $('#per_share_chart_embed_chart').click(function() {
+                             $('#per_share_chart_embedinput').val('Creating...');
+
+                            var file_name = '';
+                            if (file_name == '') {
+                                file_name = new Date().getTime();
+                            }
+
+                            $('#per_share_chart_embed_dialog').dialog({
+
+                                width: 400,
+                                height: 120,
+                                position: {
+                                    my: 'right top',
+                                    at: 'right bottom',
+                                    of: $('#per_share_chart_embed_chart')
+
+                                },
+                                modal: false,
+                                resizable: false,
+                                draggable: true,
+                                open: function() {
+
+                                    // Call server to draw the picture
+                                    var svg = termChart.getSVG({
+                                        chart: {
+                                            width: 600,
+                                            height: 380,
+                                            marginBottom: 60,
+                                            marginTop: 20,
+                                            marginLeft: 20,
+                                            borderColor: '#FFC000',
+                                            borderWidth: 2,
+                                            events: {
+                                                load: function() {
+                                                    // draw all tags
+                                                    draw_exporting_logo(this);
+                                                    draw_tags_per_share_chart(this);
+                                                },
+                                                redraw: function() {
+                                                    draw_exporting_logo(this);
+                                                    draw_tags_per_share_chart(this);
+                                                }
+                                            }
+                                        },
+                                        legend: {
+                                            x: 5
+                                        },
+                                        rangeSelector: {
+                                            enabled: false
+                                        },
+                                        credits: {
+                                            enabled: false
+                                        }
+                                    });
+
+                                    var dataString = 'type=image/png&filename=' + file_name + '&width=600&svg=' + svg;
+                                    $.ajax({
+                                        type: 'POST',
+                                        data: dataString,
+                                        url : 'https://www.gurufocus.com/xmlswf/highstock/exporting-server/chart_embed.php',
+                                        asyn: true,
+                                        success: function(data) {
+                                            if (data) {
+                                                $('#per_share_chart_embedinput').val('<a href="http://www.gurufocus.com"><img src="https://chart.gurufocus.com/' + data + '" /></a>');
+                                            }
+                                        }
+                                    });
+                                }
+                            });
+
+                            $('.ui-dialog-titlebar').hide();
+
+                            $('.ui-widget-overlay').css('background: red;');
+
+
+
+
+                        });
+
+                        $('#per_share_chart_save_chart').click(function() {
+
+                            termChart.exportChart(null, {
+
+                                chart: {
+                                    width: 600,
+                                    height: 380,
+                                    marginBottom: 60,
+                                    marginTop: 20,
+                                    marginLeft: 20,
+                                    borderColor: '#FFC000',
+                                    borderWidth: 2,
+                                    events: {
+                                        load: function() {
+                                            // draw all tags
+                                            draw_exporting_logo(this);
+                                            draw_tags_per_share_chart(this);
+                                        },
+                                        redraw: function() {
+                                            draw_exporting_logo(this);
+                                            draw_tags_per_share_chart(this);
+                                        }
+                                    }
+                                },
+                                legend: {
+                                    x: 5
+                                },
+                                rangeSelector: {
+                                    enabled: false
+                                },
+                                credits: {
+                                    enabled: false
+                                }
+
+                            });
+                        });
+
+
+                        $(window).resize(function() {
+
+                            var chartContainerDivHeight = $(window).height(); 
+                            $('#per_share_chart').height(chartContainerDivHeight);
+
+                            termChart.setSize(
+                               $('#per_share_chart').width(), 
+                               $('#per_share_chart').height(),
+                               false
+                            );
+
+                            del_tags();
+                            draw_tags_per_share_chart(termChart);
+                        });
+
+                    }
+                }
+            },
+
+            credits: {
+                enabled: false
+            },
+            scrollbar: {
+                enabled: false
+            },
+            navigator: {
+                enabled: false
+            },
+
+            plotOptions: {
+
+                series: {
+                    dataGrouping: {
+                        enabled: false
+                    }
+                }
+
+            },
+
+            rangeSelector: {
+                buttonTheme: {
+                    fill: 'none',
+                    stroke: 'none',
+                    style: {
+                        color: '#666666',
+                        fontWeight: 'normal',
+                        fontSize: '9px',
+                        textDecoration: 'none'
+                    },
+                    states: {
+                        hover: {
+                            fill: 'white',
+                            stroke: 'none',
+                            style: {
+                                fontWeight: 'bold',
+                                color: '#444',
+                                textDecoration: 'underline',
+                                cursor: 'pointer'
+                            }
+                        },
+                        select: {
+                            fill: 'none',
+                            stroke: 'none',
+                            style: {
+                                fontWeight: 'bold',
+                                color: '#444'
+                            }
+                        }
+                    }
+                },
+                buttonPosition: {
+                    x: 0,
+                    y: 0                },
+                selected: selectedDateIdx,
+                buttons: [{
+                    type: 'ytd',
+                    text: 'YTD',
+                    events: { click: () => { onclick(0) } }
+                }, {
+                    type: 'year',
+                    count: 1,
+                    text: '1Y',
+                    events: { click: () => { onclick(1) } }
+                }, {
+                    type: 'year',
+                    count: 3,
+                    text: '3Y',
+                    events: { click: () => { onclick(2) } }
+                }, {
+                    type: 'year',
+                    count: 5,
+                    text: '5Y',
+                    events: { click: () => { onclick(3) } }
+                }, {
+                    type: 'year',
+                    count: 10,
+                    text: '10Y',
+                    events: { click: () => { onclick(4) } }
+                },  {
+                    type: 'year',
+                    count: 15,
+                    text: '15Y',
+                    events: { click: () => { onclick(5) } }
+                }, {
+                    type: 'all',
+                    text: 'All',
+                    events: { click: () => { onclick(6) } }
+                }],
+
+                inputEnabled: false
+            },
+
+
+
+            legend: {
+                enabled: true,
+
+                //backgroundColor : '#FFF',
+                borderWidth: 0,
+                align: 'left',
+                layout: 'vertical',
+                verticalAlign: 'top',
+                y: 25,
+                x: 0,
+                //width:150,
+                borderColor: 'silver',
+                floating: true
+
+            },
+
+            xAxis: {
+                type: 'datetime',
+                dateTimeLabelFormats: {
+                    hour: ' ',
+                    day: '%b %e'
+                },
+                ordinal: false,
+                events: {
+                    afterSetExtremes: function(e) {
+                        // need to rewrite this part
+                        //console.log('test2');
+                        //del_tags();
+                        //draw_tags(chart);
+                    }
+                }
+            },
+
+            yAxis: yAxisOptions,
+
+            tooltip: {
+                crosshairs: {
+                    dashStyle: 'dash'
+                },
+                backgroundColor: {
+                    linearGradient: {
+                        x1: 0,
+                        y1: 0,
+                        x2: 0,
+                        y2: 1
+                    },
+                    stops: [
+                        [0, 'white'],
+                        [1, '#EEE']
+                    ]
+                },
+                borderColor: 'gray',
+                borderWidth: 1,
+                valueDecimals: 2,
+                xDateFormat: '%m-%d-%Y',
+                shared: true,
+                pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b><br/>'
+
+            },
+
+            exporting: {
+                buttons: {
+
+                    printButton: {
+                        enabled: false
+                    },
+                    exportButton: {
+                        enabled: false
+                    }
+                }
+            },
+
+            series: seriesOptions
+
+        }, function(chart) {
+            var series = chart.series;
+        });
+    }
+
+    $("#radio-q").click(function(){
+        createTermChart('q');
+    });
+
+    $("#radio-a").click(function(){
+        createTermChart('a');
+    });
+
+    $("#median").click(function(){
+        let radio = document.getElementById('radio-a').checked ? 'a' : 'q'
+        createTermChart(radio);
+    });
+
+    $('#per_share_chart_embed_close').click(function(event) {
+        event.preventDefault();
+        $('#per_share_chart_embed_dialog').dialog('close');
+    });
+
+    function onclick (idx) {
+        // if (!document.getElementById('median').checked) return
+        selectedDateIdx = idx
+        let radio = document.getElementById('radio-a').checked ? 'a' : 'q'
+        createTermChart(radio);
+    }
+
+    function draw_exporting_logo(chart) {
+
+        chart.renderer.text(
+            '<span style="font-size:12px;color:#000;font-weight:normal;">Charts Powered by GuruFocus.com</span>',
+            380, chart.plotTop + chart.plotHeight + 45).add();
+    }
+
+
+    function del_tags() {
+        $(series_id_array).each(function(i, serie) {
+            $('#' + serie + '_img').remove();
+            $('#' + serie + '_text').remove();
+
+        });
+    }
+
+
+    function draw_tags_per_share_chart(chart) {
+
+
+        $(chart.series).each(function(i, serie) {
+            //
+            var s_id = serie.options.id;
+            var temp_id = s_id;
+            series_id_array.push(temp_id);
+            var yaxis_name = serie.options.yAxis;
+            var point = serie.points[serie.points.length - 1];
+
+            if (point) {
+
+                if (point.y) {
+                    var last_value_dis = (point.y).toFixed(1);
+
+                    if (last_value_dis > 1000) {
+                        last_value_dis = (point.y / 1000).toFixed(1) + 'K';
+                    } else if (last_value_dis > 1000000) {
+                        last_value_dis = (point.y / 1000000).toFixed(1) + 'M';
+                    }
+
+                    //console.log(yaxis_name);
+                    var y_axis = chart.get(yaxis_name);
+
+
+                    element_text = chart.renderer.text(
+                        //the text to render
+                        '<span style="font-size:10px;font-weight:bold;color:' + serie.color + ';">' + last_value_dis + '</span>',
+                        //the 'x' position
+                        (chart.options).chart.marginLeft + y_axis.width + y_axis.offset + 5,
+                        //the 'y' position
+                        chart.plotTop + point.plotY + 3).attr({
+                        id: temp_id + '_text',
+                        zIndex: 999
+                    }).add();
+                }
+            }
+        });
+    }

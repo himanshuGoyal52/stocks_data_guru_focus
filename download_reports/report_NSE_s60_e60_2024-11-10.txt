@@ -1,0 +1,5 @@
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ARISTO_60  : Done
