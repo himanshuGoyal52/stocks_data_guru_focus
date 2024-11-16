@@ -1,0 +1,593 @@
+NSE:AMJUMBO_0  : Unexpected token d in JSON at position 1
+NSE:AMJUMBO_0  : Unexpected token d in JSON at position 1
+NSE:AMJUMBO_0  : Unexpected token d in JSON at position 1
+NSE:AMJUMBO_0  : Unexpected token d in JSON at position 1
+NSE:AMJUMBO_0  : Done
+NSE:AAATECH_1  : Unexpected token d in JSON at position 1
+NSE:AAATECH_1  : Unexpected token d in JSON at position 1
+NSE:AAATECH_1  : Unexpected token d in JSON at position 1
+NSE:AAATECH_1  : Unexpected token d in JSON at position 1
+NSE:AAATECH_1  : Done
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Unexpected token d in JSON at position 1
+NSE:AADHARHFC_2  : Done
+NSE:AAKASH_3  : Unexpected token d in JSON at position 1
+NSE:AAKASH_3  : Unexpected token d in JSON at position 1
+NSE:AAKASH_3  : Unexpected token d in JSON at position 1
+NSE:AAKASH_3  : Unexpected token d in JSON at position 1
+NSE:AAKASH_3  : Unexpected token d in JSON at position 1
+NSE:AAKASH_3  : Done
+NSE:AARON_4  : Unexpected token d in JSON at position 1
+NSE:AARON_4  : Unexpected token d in JSON at position 1
+NSE:AARON_4  : Unexpected token d in JSON at position 1
+NSE:AARON_4  : Done
+NSE:AARVI_5  : Unexpected token d in JSON at position 1
+NSE:AARVI_5  : Unexpected token d in JSON at position 1
+NSE:AARVI_5  : Unexpected token d in JSON at position 1
+NSE:AARVI_5  : Done
+NSE:AATMAJ_6  : Unexpected token d in JSON at position 1
+NSE:AATMAJ_6  : Unexpected token d in JSON at position 1
+NSE:AATMAJ_6  : Unexpected token d in JSON at position 1
+NSE:AATMAJ_6  : Unexpected token d in JSON at position 1
+NSE:AATMAJ_6  : Unexpected token d in JSON at position 1
+NSE:AATMAJ_6  : Done
+NSE:ABCOTS_7  : Unexpected token d in JSON at position 1
+NSE:ABCOTS_7  : Unexpected token d in JSON at position 1
+NSE:ABCOTS_7  : Unexpected token d in JSON at position 1
+NSE:ABCOTS_7  : Unexpected token d in JSON at position 1
+NSE:ABCOTS_7  : Unexpected token d in JSON at position 1
+NSE:ABCOTS_7  : Unexpected token d in JSON at position 1
+NSE:ABCOTS_7  : Done
+NSE:ABINFRA_8  : Unexpected token d in JSON at position 1
+NSE:ABINFRA_8  : Unexpected token d in JSON at position 1
+NSE:ABINFRA_8  : Unexpected token d in JSON at position 1
+NSE:ABINFRA_8  : Unexpected token d in JSON at position 1
+NSE:ABINFRA_8  : Done
+NSE:ABAN_9  : Unexpected token d in JSON at position 1
+NSE:ABAN_9  : Unexpected token d in JSON at position 1
+NSE:ABAN_9  : Done
+NSE:AILIMITED_10  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AILIMITED_10  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AILIMITED_10  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AILIMITED_10  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AILIMITED_10  : Done
+NSE:ABMINTLLTD_11  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ABMINTLLTD_11  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ABMINTLLTD_11  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ABMINTLLTD_11  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ABMINTLLTD_11  : Done
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:ABSMARINE_12  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ABSMARINE_12  : Done
+NSE:ACCENTMIC_13  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ACCENTMIC_13  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ACCENTMIC_13  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ACCENTMIC_13  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ACCENTMIC_13  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ACCENTMIC_13  : Done
+NSE:ACCORD_14  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ACCORD_14  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ACCORD_14  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ACCORD_14  : Done
+NSE:ACCURACY_15  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ACCURACY_15  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ACCURACY_15  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ACCURACY_15  : Done
+NSE:ACEINTEG_16  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ACEINTEG_16  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ACEINTEG_16  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ACEINTEG_16  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ACEINTEG_16  : Done
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:LAWSIKHO_17  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:LAWSIKHO_17  : Done
+NSE:ABFRL_18  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ABFRL_18  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ABFRL_18  : Done
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AUSL_19  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AUSL_19  : Done
+NSE:ADVENZYMES_20  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ADVENZYMES_20  : Done
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AERON_21  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AERON_21  : Done
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AESTHETIK_22  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AESTHETIK_22  : Done
+NSE:AGUL_23  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AGUL_23  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AGUL_23  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AGUL_23  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AGUL_23  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AGUL_23  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AGUL_23  : Done
+NSE:AGARWALFT_24  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AGARWALFT_24  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AGARWALFT_24  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AGARWALFT_24  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AGARWALFT_24  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AGARWALFT_24  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AGARWALFT_24  : Done
+NSE:AGNI_25  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AGNI_25  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AGNI_25  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AGNI_25  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AGNI_25  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AGNI_25  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AGNI_25  : Done
+NSE:AGROPHOS_26  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AGROPHOS_26  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AGROPHOS_26  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AGROPHOS_26  : Done
+NSE:AHIMSA_27  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AHIMSA_27  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AHIMSA_27  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AHIMSA_27  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AHIMSA_27  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AHIMSA_27  : Done
+NSE:AHLADA_28  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AHLADA_28  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AHLADA_28  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AHLADA_28  : Done
+NSE:AIAENG_29  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AIAENG_29  : Done
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AIMTRON_30  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AIMTRON_30  : Done
+NSE:AIRAN_31  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AIRAN_31  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AIRAN_31  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AIRAN_31  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AIRAN_31  : Done
+NSE:AIROLAM_32  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AIROLAM_32  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AIROLAM_32  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AIROLAM_32  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AIROLAM_32  : Done
+NSE:AJOONI_33  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AJOONI_33  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AJOONI_33  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AJOONI_33  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AJOONI_33  : Done
+NSE:AJRINFRA_34  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AJRINFRA_34  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AJRINFRA_34  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AJRINFRA_34  : Done
+NSE:AKANKSHA_35  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AKANKSHA_35  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AKANKSHA_35  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AKANKSHA_35  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AKANKSHA_35  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AKANKSHA_35  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AKANKSHA_35  : Done
+NSE:AKASH_36  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AKASH_36  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AKASH_36  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AKASH_36  : Done
+NSE:AKG_37  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AKG_37  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AKG_37  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AKG_37  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AKG_37  : Done
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AKIKO_38  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AKIKO_38  : Done
+NSE:ALKEM_39  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ALKEM_39  : Done
+NSE:ALLETEC_40  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ALLETEC_40  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:ALLETEC_40  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ALLETEC_40  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ALLETEC_40  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ALLETEC_40  : Done
+NSE:ABDL_41  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ABDL_41  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:ABDL_41  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ABDL_41  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ABDL_41  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:ABDL_41  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ABDL_41  : Done
+NSE:ALPEXSOLAR_42  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ALPEXSOLAR_42  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ALPEXSOLAR_42  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ALPEXSOLAR_42  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ALPEXSOLAR_42  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ALPEXSOLAR_42  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ALPEXSOLAR_42  : Done
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:ALUWIND_43  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ALUWIND_43  : Done
+NSE:AMBANIORGO_44  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AMBANIORGO_44  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AMBANIORGO_44  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AMBANIORGO_44  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AMBANIORGO_44  : Done
+NSE:AMBER_45  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AMBER_45  : Done
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AMBEY_46  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AMBEY_46  : Done
+NSE:AMEYA_47  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AMEYA_47  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AMEYA_47  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AMEYA_47  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AMEYA_47  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AMEYA_47  : Done
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AMIABLE_48  : Done
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AMIABLE_48  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AMIABLE_48  : Done
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AISL_49  : Done
+NSE:AISL_49  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AISL_49  : Done
+NSE:ANLON_50  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ANLON_50  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ANLON_50  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ANLON_50  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ANLON_50  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ANLON_50  : Done
+NSE:ANNAPURNA_51  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ANNAPURNA_51  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ANNAPURNA_51  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ANNAPURNA_51  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ANNAPURNA_51  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ANNAPURNA_51  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ANNAPURNA_51  : Done
+NSE:ANTGRAPHIC_52  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ANTGRAPHIC_52  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ANTGRAPHIC_52  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ANTGRAPHIC_52  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ANTGRAPHIC_52  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ANTGRAPHIC_52  : Done
+NSE:PARKHOTELS_53  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:PARKHOTELS_53  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:PARKHOTELS_53  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:PARKHOTELS_53  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:PARKHOTELS_53  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:PARKHOTELS_53  : Done
+NSE:APOLLOHOSP_54  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:APOLLOHOSP_54  : Done
+NSE:APOLSINHOT_55  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:APOLSINHOT_55  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:APOLSINHOT_55  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:APOLSINHOT_55  : Done
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:APRAMEYA_56  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:APRAMEYA_56  : Done
+NSE:ARABIAN_57  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARABIAN_57  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARABIAN_57  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARABIAN_57  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ARABIAN_57  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ARABIAN_57  : Done
+NSE:ARHAM_58  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARHAM_58  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARHAM_58  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARHAM_58  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ARHAM_58  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ARHAM_58  : Done
+NSE:ARIHANTACA_59  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARIHANTACA_59  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARIHANTACA_59  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:ARIHANTACA_59  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARIHANTACA_59  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ARIHANTACA_59  : Done
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARISTO_60  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ARISTO_60  : Done
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:ARKADE_61  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ARKADE_61  : Done
+NSE:ARTNIRMAN_62  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARTNIRMAN_62  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARTNIRMAN_62  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARTNIRMAN_62  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ARTNIRMAN_62  : Done
+NSE:ARVEE_63  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ARVEE_63  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ARVEE_63  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ARVEE_63  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ARVEE_63  : Done
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [days_inventory]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [days_payable]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ACSAL_64  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ACSAL_64  : Done
+NSE:ASCOM_65  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASCOM_65  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ASCOM_65  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:ASCOM_65  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ASCOM_65  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ASCOM_65  : Done
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:ASHALOG_66  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ASHALOG_66  : Done
+NSE:ASLIND_67  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASLIND_67  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ASLIND_67  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ASLIND_67  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ASLIND_67  : Done
+NSE:ASPINWALL_68  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASPINWALL_68  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ASPINWALL_68  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ASPINWALL_68  : Done
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:ASPIRE_69  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ASPIRE_69  : Done
+NSE:ASTEC_70  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASTEC_70  : Done
+NSE:ASTRAL_71  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ASTRAL_71  : Done
+NSE:ATMASTCO_72  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ATMASTCO_72  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:ATMASTCO_72  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:ATMASTCO_72  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:ATMASTCO_72  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:ATMASTCO_72  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:ATMASTCO_72  : Done
+NSE:ATUL_73  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:ATUL_73  : Done
+NSE:AURDIS_74  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AURDIS_74  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AURDIS_74  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AURDIS_74  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AURDIS_74  : Done
+NSE:AUROIMPEX_75  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AUROIMPEX_75  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AUROIMPEX_75  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AUROIMPEX_75  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AUROIMPEX_75  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AUROIMPEX_75  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AUROIMPEX_75  : Done
+NSE:AUROPHARMA_76  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AUROPHARMA_76  : Done
+NSE:AUSOMENT_77  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AUSOMENT_77  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AUSOMENT_77  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AUSOMENT_77  : Done
+NSE:APS_78  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:APS_78  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:APS_78  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:APS_78  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:APS_78  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:APS_78  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:APS_78  : Done
+NSE:AVG_79  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AVG_79  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AVG_79  : Done
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AVIANSH_80  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AVIANSH_80  : Done
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AVPINFRA_81  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AVPINFRA_81  : Done
+NSE:AVROIND_82  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AVROIND_82  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AVROIND_82  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AVROIND_82  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AVROIND_82  : Done
+NSE:AVSL_83  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AVSL_83  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:AVSL_83  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AVSL_83  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AVSL_83  : Done
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [dividend_payout_ratio]
+NSE:AWFIS_84  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AWFIS_84  : Done
+NSE:AZAD_85  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:AZAD_85  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:AZAD_85  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:AZAD_85  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:AZAD_85  : Done
+NSE:BBTCL_86  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BBTCL_86  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BBTCL_86  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BBTCL_86  : Done
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:STYLEBAAZA_87  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:STYLEBAAZA_87  : Done
+NSE:BABAFP_88  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BABAFP_88  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BABAFP_88  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BABAFP_88  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BABAFP_88  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BABAFP_88  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BABAFP_88  : Done
+NSE:BAHETI_89  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BAHETI_89  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BAHETI_89  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BAHETI_89  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BAHETI_89  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BAHETI_89  : Done
+NSE:BAJAJCON_90  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BAJAJCON_90  : Done
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:BAJAJHFL_91  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BAJAJHFL_91  : Done
+NSE:BALAXI_92  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BALAXI_92  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BALAXI_92  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BALAXI_92  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BALAXI_92  : Done
+NSE:BALKRISIND_93  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BALKRISIND_93  : Done
+NSE:BANKA_94  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BANKA_94  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BANKA_94  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BANKA_94  : Done
+NSE:BASILIC_95  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BASILIC_95  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BASILIC_95  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BASILIC_95  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BASILIC_95  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BASILIC_95  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BASILIC_95  : Done
+NSE:BAWEJA_96  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BAWEJA_96  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BAWEJA_96  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BAWEJA_96  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BAWEJA_96  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BAWEJA_96  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BAWEJA_96  : Done
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [f_c_f_yield_]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [inventory_turnover]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [p_e_g_ratio]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [total_payout_yield_]
+NSE:BEACON_97  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BEACON_97  : Done
+NSE:BEARDSELL_98  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BEARDSELL_98  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BEARDSELL_98  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BEARDSELL_98  : Done
+NSE:BETA_99  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BETA_99  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BETA_99  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BETA_99  : Done
+NSE:BEWLTD_100  : Unexpected token d in JSON at position 1 [insider_ownership]
+NSE:BEWLTD_100  : Unexpected token d in JSON at position 1 [institutional_ownership]
+NSE:BEWLTD_100  : Unexpected token d in JSON at position 1 [forward_p_e_ratio]
+NSE:BEWLTD_100  : Unexpected token d in JSON at position 1 [price_to_owner_earnings]
+NSE:BEWLTD_100  : Unexpected token d in JSON at position 1 [dividend_yield_]
+NSE:BEWLTD_100  : Done

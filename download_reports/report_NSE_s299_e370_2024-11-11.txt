@@ -1,0 +1,184 @@
+Mongodb Connected :)
+NSE:INNOMET_299: Market cap is 232.7 cr. which is lower than 500 cr. and higher than null cr.
+NSE:INNOVACAP_300  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:INNOVACAP_300  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:INNOVACAP_300  : Done
+NSE:INNOVANA_301  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:INNOVANA_301  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:INNOVANA_301  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:INNOVANA_301  : Done
+NSE:INNOVATIVE_302: Market cap is 10.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:INOXINDIA_303  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:INOXINDIA_303  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:INOXINDIA_303  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:INOXINDIA_303  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:INOXINDIA_303  : Done
+NSE:INSPIRE_304: Market cap is 36 cr. which is lower than 500 cr. and higher than null cr.
+NSE:IPSL_305: Market cap is 222.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:INTERARCH_306  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:INTERARCH_306  : Done
+NSE:INDIGO_307  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:INDIGO_307  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:INDIGO_307  : Done
+NSE:INM_308: Market cap is 232.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:ISFT_309: Market cap is 227.3 cr. which is lower than 500 cr. and higher than null cr.
+NSE:IRCON_310  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:IRCON_310  : Done
+NSE:IRISDOREME_311  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:IRISDOREME_311  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:IRISDOREME_311  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:IRISDOREME_311  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:IRISDOREME_311  : Done
+NSE:ISHAN_312: Market cap is 55.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:ITALIANE_313: Market cap is 77.5 cr. which is lower than 500 cr. and higher than null cr.
+NSE:ITC_314  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:ITC_314  : Done
+NSE:JAINAM_315: Market cap is 152.7 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JAKHARIA_316: Market cap is 14.7 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JALAN_317: Market cap is 6.4 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JSFB_318  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JSFB_318  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JSFB_318  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:JSFB_318  : Done
+NSE:JASH_319  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JASH_319  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JASH_319  : Done
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:JAYBEE_320  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:JAYBEE_320  : Done
+NSE:KORE_321: Market cap is 464.2 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JPINFRATEC_322: Market cap is 173.6 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JSLL_323  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JSLL_323  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JSLL_323  : Done
+NSE:JETFREIGHT_324: Market cap is 68.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JETKNIT_325: Market cap is 50.6 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JEYYAM_326: Market cap is 256 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JFLLIFE_327: Market cap is 96.3 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JPOLYINVST_328  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JPOLYINVST_328  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JPOLYINVST_328  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:JPOLYINVST_328  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:JPOLYINVST_328  : Done
+NSE:JIWANRAM_329: Market cap is 39.7 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JKCEMENT_330  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JKCEMENT_330  : Done
+NSE:JKLAKSHMI_331  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JKLAKSHMI_331  : Done
+NSE:JMFINANCIL_332  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JMFINANCIL_332  : Done
+NSE:JOCIL_333: Market cap is 171.5 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JSWENERGY_334  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JSWENERGY_334  : Done
+NSE:JUBLFOOD_335  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JUBLFOOD_335  : Done
+NSE:JMA_336: Market cap is 227.4 cr. which is lower than 500 cr. and higher than null cr.
+NSE:JUNIPER_337  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JUNIPER_337  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JUNIPER_337  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:JUNIPER_337  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:JUNIPER_337  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:JUNIPER_337  : Done
+NSE:JYOTICNC_338  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:JYOTICNC_338  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:JYOTICNC_338  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:JYOTICNC_338  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:JYOTICNC_338  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:JYOTICNC_338  : Done
+NSE:K2INFRA_339: Market cap is 280.7 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KTL_340: Market cap is 49.5 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KALANA_341: Market cap is 47.2 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KALYANIFRG_342: Market cap is 183.9 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KANDARP_343: Market cap is 33.6 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KAPSTON_344  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KAPSTON_344  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KAPSTON_344  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KAPSTON_344  : Done
+NSE:KARNIKA_345: Market cap is 340.3 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KATARIA_346: Market cap is 406.6 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KLL_347: Market cap is 194.8 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KCEIL_348: Market cap is 296 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KAYA_349: Market cap is 477.5 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KCK_350: Market cap is 258.3 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KERNEX_351  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KERNEX_351  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KERNEX_351  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:KERNEX_351  : Done
+NSE:KHFM_352: Market cap is 218.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KIOCL_353  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KIOCL_353  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KIOCL_353  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KIOCL_353  : Done
+NSE:KIRLOSENG_354  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KIRLOSENG_354  : Done
+NSE:KKVAPOW_355: Market cap is 57.3 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KNAGRI_356  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KNAGRI_356  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KNAGRI_356  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KNAGRI_356  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KNAGRI_356  : Done
+NSE:KODYTECH_357  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KODYTECH_357  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KODYTECH_357  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KODYTECH_357  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:KODYTECH_357  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KODYTECH_357  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KODYTECH_357  : Done
+NSE:KONSTELEC_358: Market cap is 197.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KONTOR_359: Market cap is 84.2 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KDL_360  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KDL_360  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KDL_360  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KDL_360  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:KDL_360  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KDL_360  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KDL_360  : Done
+NSE:KOTAKBANK_361  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KOTAKBANK_361  : The value of "offset" is out of range. It must be >= 0 && <= 17825792. Received 17825793
+NSE:KOTHARIPET_362  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KOTHARIPET_362  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KOTHARIPET_362  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KOTHARIPET_362  : Done
+NSE:KOTARISUG_363: Market cap is 392.1 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KOTYARK_364  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KOTYARK_364  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KOTYARK_364  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KOTYARK_364  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KOTYARK_364  : Done
+NSE:KRISHANA_365  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KRISHANA_365  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KRISHANA_365  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KRISHANA_365  : Done
+NSE:KRISHCA_366: Market cap is 372.5 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KRISHIVAL_367  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KRISHIVAL_367  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KRISHIVAL_367  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KRISHIVAL_367  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KRISHIVAL_367  : Done
+NSE:KRISHNADEF_368  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KRISHNADEF_368  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KRISHNADEF_368  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KRISHNADEF_368  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KRISHNADEF_368  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KRISHNADEF_368  : Done
+NSE:KRITIKA_369: Market cap is 332.6 cr. which is lower than 500 cr. and higher than null cr.
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KRN_370  : Done
