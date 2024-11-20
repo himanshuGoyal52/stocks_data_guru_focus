@@ -1,0 +1,659 @@
+Welcome to the world of scraping!!
+Mongodb Connected :)
+NSE:SAHASRA company started
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SAHASRA_601  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SAHASRA_601  : Done
+NSE:SAJHOTELS company started
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [earnings_yield_joel_greenblatt_]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [e_v_to_e_b_i_t_]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [e_v_to_e_b_i_t_d_a]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [e_v_to_f_c_f]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [e_v_to_revenue]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SAJHOTELS_602  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SAJHOTELS_602  : Done
+NSE:SAKAR company started
+NSE:SAKAR_603  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SAKAR_603  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SAKAR_603  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SAKAR_603  : Done
+NSE:SECL company started
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [e_v_to_f_c_f]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SECL_604  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SANGANI_608  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SANGANI_608  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SANGANI_608  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SANGANI_608  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SANGANI_608  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SANGANI_608  : Done
+NSE:SANGINITA company started
+
+NSE:SANSTAR_610  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SANSTAR_610  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SANSTAR_610  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SANSTAR_610  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SANSTAR_610  : Done
+NSE:SARTELE company started
+NSE:SARTELE_611  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SARTELE_611  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SARTELE_611  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SARTELE_611  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SARTELE_611  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SARTELE_611  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SARTELE_611  : Done
+NSE:SSDL company started
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SSDL_612  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SSDL_612  : Done
+NSE:SAROJA company started
+NSE:SAROJA_613  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SAROJA_613  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SAROJA_613  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SAROJA_613  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SAROJA_613  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SAROJA_613  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SAROJA_613  : Done
+NSE:SARVESHWAR company started
+NSE:SARVESHWAR_614  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SARVESHWAR_614  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SARVESHWAR_614  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SARVESHWAR_614  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SARVESHWAR_614  : Done
+NSE:SSEGL company started
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SSEGL_615  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SSEGL_615  : Done
+NSE:SATIPOLY company started
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SATIPOLY_616  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SATIPOLY_616  : Done
+NSE:SATIN company started
+NSE:SATIN_617  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SATIN_617  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SATIN_617  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SATIN_617  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SATIN_617  : Done
+NSE:SCHAEFFLER company started
+NSE:SCHAEFFLER_618  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SCHAEFFLER_618  : Done
+NSE:SECURCRED company started
+NSE:SECURCRED_619  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SECURCRED_619  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SECURCRED_619  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SECURCRED_619  : Done
+NSE:SERVICE company started
+NSE:SERVICE_620  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SERVICE_620  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SERVICE_620  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SERVICE_620  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SERVICE_620  : Done
+NSE:SERVOTECH company started
+NSE:SERVOTECH_621  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SERVOTECH_621  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SERVOTECH_621  : Done
+NSE:SHAIVAL company started
+NSE:SHAIVAL_622  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHAIVAL_622  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHAIVAL_622  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHAIVAL_622  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHAIVAL_622  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHAIVAL_622  : Done
+NSE:SHANTHALA company started
+NSE:SHANTHALA_623  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHANTHALA_623  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHANTHALA_623  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHANTHALA_623  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHANTHALA_623  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHANTHALA_623  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHANTHALA_623  : Done
+NSE:SHANTI company started
+NSE:SHANTI_624  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHANTI_624  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHANTI_624  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHANTI_624  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHANTI_624  : Done
+NSE:SCML company started
+NSE:SCML_625  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SCML_625  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SCML_625  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SCML_625  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SCML_625  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SCML_625  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SCML_625  : Done
+NSE:SHEETAL company started
+NSE:SHEETAL_626  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHEETAL_626  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHEETAL_626  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHEETAL_626  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHEETAL_626  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHEETAL_626  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHEETAL_626  : Done
+NSE:SHEMAROO company started
+NSE:SHEMAROO_627  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHEMAROO_627  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHEMAROO_627  : Done
+NSE:SHERA company started
+NSE:SHERA_628  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHERA_628  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHERA_628  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHERA_628  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHERA_628  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHERA_628  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHERA_628  : Done
+NSE:SHIGAN company started
+NSE:SHIGAN_629  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHIGAN_629  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHIGAN_629  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHIGAN_629  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHIGAN_629  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHIGAN_629  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHIGAN_629  : Done
+NSE:SHIVAUM company started
+NSE:SHIVAUM_630  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHIVAUM_630  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHIVAUM_630  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHIVAUM_630  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHIVAUM_630  : Done
+NSE:SPCL company started
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SPCL_631  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SPCL_631  : Done
+NSE:SHRADHA company started
+NSE:SHRADHA_632  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHRADHA_632  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHRADHA_632  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHRADHA_632  : Done
+NSE:SHREEKARNI company started
+NSE:SHREEKARNI_633  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHREEKARNI_633  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHREEKARNI_633  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHREEKARNI_633  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHREEKARNI_633  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHREEKARNI_633  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHREEKARNI_633  : Done
+NSE:SHREEOSFM company started
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHREEOSFM_634  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHREEOSFM_634  : Done
+NSE:SRPL company started
+NSE:SRPL_635  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SRPL_635  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SRPL_635  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SRPL_635  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SRPL_635  : Done
+NSE:BALAJEE company started
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SRPL_635  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SRPL_635  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SRPL_635  : Done
+NSE:BALAJEE company started
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SRPL_635  : Done
+NSE:BALAJEE company started
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:BALAJEE company started
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:BALAJEE_636  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:BALAJEE_636  : Done
+NSE:TIRUPATI company started
+NSE:TIRUPATI_637  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TIRUPATI_637  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TIRUPATI_637  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TIRUPATI_637  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TIRUPATI_637  : Done
+NSE:SVLL company started
+NSE:SVLL_638  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SVLL_638  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SVLL_638  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SVLL_638  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SVLL_638  : Done
+NSE:OSWALSEEDS company started
+NSE:OSWALSEEDS_639  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:OSWALSEEDS_639  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:OSWALSEEDS_639  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:OSWALSEEDS_639  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:OSWALSEEDS_639  : Done
+NSE:SHREMINVIT company started
+NSE:SHREMINVIT_640  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHREMINVIT_640  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHREMINVIT_640  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SHREMINVIT_640  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHREMINVIT_640  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHREMINVIT_640  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHREMINVIT_640  : Done
+NSE:SHRENIK company started
+NSE:SHRENIK_641  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHRENIK_641  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHRENIK_641  : Done
+NSE:SRIRAM company started
+NSE:SRIRAM_642  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SRIRAM_642  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SRIRAM_642  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SRIRAM_642  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SRIRAM_642  : Done
+NSE:SHRITECH company started
+NSE:SHRITECH_643  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHRITECH_643  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHRITECH_643  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHRITECH_643  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHRITECH_643  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHRITECH_643  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHRITECH_643  : Done
+NSE:SHRIRAMFIN company started
+NSE:SHRIRAMFIN_644  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHRIRAMFIN_644  : The value of "offset" is out of range. It must be >= 0 && <= 17825792. Received 17825803
+NSE:SHRIPISTON company started
+NSE:SHRIPISTON_645  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHRIPISTON_645  : Done
+NSE:SHUBHLAXMI company started
+NSE:SHUBHLAXMI_646  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHUBHLAXMI_646  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHUBHLAXMI_646  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHUBHLAXMI_646  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHUBHLAXMI_646  : Done
+NSE:SHUBHSHREE company started
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SHUBHSHREE_647  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SHUBHSHREE_647  : Done
+NSE:SHYAMCENT company started
+NSE:SHYAMCENT_648  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SHYAMCENT_648  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SHYAMCENT_648  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SHYAMCENT_648  : Done
+NSE:SIDDHIKA company started
+NSE:SIDDHIKA_649  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SIDDHIKA_649  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SIDDHIKA_649  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SIDDHIKA_649  : Done
+NSE:SIGNORIA company started
+NSE:SIGNORIA_650  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SIGNORIA_650  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SIGNORIA_650  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SIGNORIA_650  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SIGNORIA_650  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SIGNORIA_650  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SIGNORIA_650  : Done
+NSE:SIKKO company started
+NSE:SIKKO_651  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SIKKO_651  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SIKKO_651  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SIKKO_651  : Done
+NSE:SILGO company started
+NSE:SILGO_652  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SILGO_652  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SILGO_652  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SILGO_652  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SILGO_652  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SILGO_652  : Done
+NSE:SILKFLEX company started
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SILKFLEX_653  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SILKFLEX_653  : Done
+NSE:SILLYMONKS company started
+NSE:SILLYMONKS_654  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SILLYMONKS_654  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SILLYMONKS_654  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SILLYMONKS_654  : Done
+NSE:SILVERTUC company started
+NSE:SILVERTUC_655  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SILVERTUC_655  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SILVERTUC_655  : Done
+NSE:SINTERCOM company started
+NSE:SINTERCOM_656  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SINTERCOM_656  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SINTERCOM_656  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SINTERCOM_656  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SINTERCOM_656  : Done
+NSE:SJVN company started
+NSE:SJVN_657  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SJVN_657  : Done
+NSE:SKFINDIA company started
+NSE:SKFINDIA_658  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SKFINDIA_658  : Done
+NSE:SKIL company started
+NSE:SKIL_659  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SKIL_659  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SKIL_659  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SKIL_659  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SKIL_659  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SKIL_659  : Done
+NSE:SKP company started
+NSE:SKP_660  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SKP_660  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SKP_660  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SKP_660  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SKP_660  : Done
+NSE:SLONE company started
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SLONE_661  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SLONE_661  : Done
+NSE:SMVD company started
+NSE:SMVD_662  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SMVD_662  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SMVD_662  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SMVD_662  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SMVD_662  : Done
+NSE:SOFTTECH company started
+NSE:SOFTTECH_663  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SOFTTECH_663  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SOFTTECH_663  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SOFTTECH_663  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SOFTTECH_663  : Done
+NSE:SOLARINDS company started
+NSE:SOLARINDS_664  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SOLARINDS_664  : Done
+NSE:SOLEX company started
+NSE:SOLEX_665  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SOLEX_665  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SOLEX_665  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SOLEX_665  : Done
+NSE:BALCO company started
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:BALCO_666  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:BALCO_666  : Done
+NSE:SONAMAC company started
+NSE:SONAMAC_667  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SONAMAC_667  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SONAMAC_667  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SONAMAC_667  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SONAMAC_667  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SONAMAC_667  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SONAMAC_667  : Done
+NSE:SONAMLTD company started
+NSE:SONAMLTD_668  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SONAMLTD_668  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SONAMLTD_668  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SONAMLTD_668  : Done
+NSE:SONUINFRA company started
+NSE:SONUINFRA_669  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SONUINFRA_669  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SONUINFRA_669  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SONUINFRA_669  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SONUINFRA_669  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SONUINFRA_669  : Done
+NSE:SOTAC company started
+NSE:SOTAC_670  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SOTAC_670  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SOTAC_670  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SOTAC_670  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SOTAC_670  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SOTAC_670  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SOTAC_670  : Done
+NSE:SPRL company started
+NSE:SPRL_671  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SPRL_671  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SPRL_671  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SPRL_671  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SPRL_671  : Done
+NSE:SPCENET company started
+NSE:SPCENET_672  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SPCENET_672  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SPCENET_672  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SPCENET_672  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SPCENET_672  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SPCENET_672  : Done
+NSE:SPECTRUM company started
+NSE:SPECTRUM_673  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SPECTRUM_673  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SPECTRUM_673  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SPECTRUM_673  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SPECTRUM_673  : Done
+NSE:SPECTSTM company started
+NSE:SPECTSTM_674  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SPECTSTM_674  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SPECTSTM_674  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SPECTSTM_674  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SPECTSTM_674  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SPECTSTM_674  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SPECTSTM_674  : Done
+NSE:SPPPOLY company started
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SPPPOLY_675  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SPPPOLY_675  : Done
+NSE:SRF company started
+NSE:SRF_676  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SRF_676  : Done
+NSE:SSFL company started
+NSE:SSFL_677  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SSFL_677  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SSFL_677  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SSFL_677  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SSFL_677  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SSFL_677  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SSFL_677  : Done
+NSE:SRIVASAVI company started
+NSE:SRIVASAVI_678  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SRIVASAVI_678  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SRIVASAVI_678  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SRIVASAVI_678  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SRIVASAVI_678  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SRIVASAVI_678  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SRIVASAVI_678  : Done
+NSE:SBIN company started
+NSE:SBIN_679  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SBIN_679  : The value of "offset" is out of range. It must be >= 0 && <= 17825792. Received 17825803
+NSE:STEELCITY company started
+NSE:STEELCITY_680  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:STEELCITY_680  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:STEELCITY_680  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:STEELCITY_680  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:STEELCITY_680  : Done
+NSE:STLTECH company started
+NSE:STLTECH_681  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:STLTECH_681  : Done
+NSE:STAR company started
+NSE:STAR_682  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:STAR_682  : Done
+NSE:SUMIT company started
+NSE:SUMIT_683  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUMIT_683  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SUMIT_683  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUMIT_683  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SUMIT_683  : Done
+NSE:SUNPHARMA company started
+NSE:SUNPHARMA_684  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUNPHARMA_684  : Done
+NSE:SUNDRMFAST company started
+NSE:SUNDRMFAST_685  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUNDRMFAST_685  : Done
+NSE:SUNDARMHLD company started
+NSE:SUNDARMHLD_686  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUNDARMHLD_686  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SUNDARMHLD_686  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUNDARMHLD_686  : Done
+NSE:SUNDARMFIN company started
+NSE:SUNDARMFIN_687  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUNDARMFIN_687  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUNDARMFIN_687  : The value of "offset" is out of range. It must be >= 0 && <= 17825792. Received 17825795
+NSE:SEL company started
+NSE:SEL_688  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SEL_688  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SEL_688  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SEL_688  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SEL_688  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SEL_688  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SEL_688  : Done
+NSE:SUNLITE company started
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SUNLITE_689  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SUNLITE_689  : Done
+NSE:SUNREST company started
+NSE:SUNREST_690  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUNREST_690  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SUNREST_690  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUNREST_690  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SUNREST_690  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SUNREST_690  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SUNREST_690  : Done
+NSE:SUPREMEENG company started
+NSE:SUPREMEENG_691  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUPREMEENG_691  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SUPREMEENG_691  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUPREMEENG_691  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SUPREMEENG_691  : Done
+NSE:SUPREMEPWR company started
+NSE:SUPREMEPWR_692  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUPREMEPWR_692  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SUPREMEPWR_692  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUPREMEPWR_692  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SUPREMEPWR_692  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SUPREMEPWR_692  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SUPREMEPWR_692  : Done
+NSE:SURANI company started
+NSE:SURANI_693  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SURANI_693  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SURANI_693  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SURANI_693  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SURANI_693  : Done
+NSE:SUULD company started
+NSE:SUULD_694  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SUULD_694  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SUULD_694  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SUULD_694  : Done
+NSE:SWARAJ company started
+NSE:SWARAJ_695  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SWARAJ_695  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SWARAJ_695  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SWARAJ_695  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SWARAJ_695  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SWARAJ_695  : Done
+NSE:SWASTIK company started
+NSE:SWASTIK_696  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SWASTIK_696  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SWASTIK_696  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SWASTIK_696  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SWASTIK_696  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SWASTIK_696  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SWASTIK_696  : Done
+NSE:SYLVANPLY company started
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:SYLVANPLY_697  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SYLVANPLY_697  : Done
+NSE:SYMPHONY company started
+NSE:SYMPHONY_698  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SYMPHONY_698  : Done
+NSE:SYNOPTICS company started
+NSE:SYNOPTICS_699  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SYNOPTICS_699  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SYNOPTICS_699  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SYNOPTICS_699  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SYNOPTICS_699  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:SYNOPTICS_699  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SYNOPTICS_699  : Done
+NSE:SYSTANGO company started
+NSE:SYSTANGO_700  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:SYSTANGO_700  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:SYSTANGO_700  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:SYSTANGO_700  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:SYSTANGO_700  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:SYSTANGO_700  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:SYSTANGO_700  : Done

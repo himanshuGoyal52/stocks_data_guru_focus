@@ -182,3 +182,111 @@ NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [price_t
 NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
 NSE:KRN_370  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
 NSE:KRN_370  : Done
+NSE:KRYSTAL_372  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KRYSTAL_372  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:KRYSTAL_372  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KRYSTAL_372  : Done
+NSE:KSHITIJPOL_373  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KSHITIJPOL_373  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KSHITIJPOL_373  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KSHITIJPOL_373  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KSHITIJPOL_373  : Done
+NSE:KSOLVES_374  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KSOLVES_374  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:KSOLVES_374  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KSOLVES_374  : Done
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:KEL_375  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:KEL_375  : Done
+NSE:LTTS_376  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LTTS_376  : Done
+NSE:LAGNAM_377  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LAGNAM_377  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:LAGNAM_377  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:LAGNAM_377  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:LAGNAM_377  : Done
+NSE:LFIC_378  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LFIC_378  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:LFIC_378  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:LFIC_378  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:LFIC_378  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:LFIC_378  : Done
+NSE:LT_379  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LT_379  : Done
+NSE:LATTEYS_380  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LATTEYS_380  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:LATTEYS_380  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:LATTEYS_380  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:LATTEYS_380  : Done
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:IXIGO_384  : Done
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:IXIGO_384  : Done
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+
+
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:IXIGO_384  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:IXIGO_384  : Done
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:LRRPL_385  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:LRRPL_385  : Done
+NSE:LEXUS_386  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LEXUS_386  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:LEXUS_386  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:LEXUS_386  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:LEXUS_386  : Done
+NSE:LIBAS_387  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:LIBAS_387  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:LIBAS_387  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:LIBAS_387  : Done

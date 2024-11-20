@@ -85,7 +85,37 @@ const scrapeFundamentalData = async (username , password) => {
     
     await page.waitForNavigation();
 
-    let starttt = 299;
+
+    /*
+    NSE:MILTON company started
+    NSE:MILTON_438  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+    NSE:MILTON_438  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+    NSE:MILTON_438  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+    NSE:MILTON_438  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+    NSE:MILTON_438  : Done
+    NSE:MINDACORP company started
+    NSE:MINDACORP_439  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+    NSE:MINDACORP_439  : Done
+    NSE:MINDPOOL company started
+    NSE:MINDPOOL_440  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+    NSE:MINDPOOL_440  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+    NSE:MINDPOOL_440  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+    NSE:MINDPOOL_440  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+    NSE:MINDPOOL_440  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+    NSE:MINDPOOL_440  : Done
+    NSE:MITCON company started
+    NSE:MITCON_441  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+    NSE:MITCON_441  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+    NSE:MITCON_441  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+    NSE:MITCON_441  : Done
+    NSE:MITTAL company started
+    NSE:MITTAL_442  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+    NSE:MITTAL_442  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+    NSE:MITTAL_442  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+    NSE:MITTAL_442  : Done
+    */
+
+    let starttt = 443;
     let enddd = 480;
     let stocks_symbols = await getStocksSymbols();
     // let stocks_symbols = ["NSE:TATAMOTORS"]
@@ -94,27 +124,29 @@ const scrapeFundamentalData = async (username , password) => {
     let download_reps = "";
     for(let i=starttt ; i<=Math.min(enddd , 819) ; i++){
 
+        console.log(`${stocks_symbols[i]} company started`);
+
         // market cap filter [Start] //
         // document.getElementById("def_body_detail_height").querySelector("font").innerHTML
-        let market_cap_url = `https://www.gurufocus.com/term/mktcap/${stocks_symbols[i]}`;
-        await page.goto(market_cap_url , { waitUntil: 'networkidle2' });
-        let market_cap_data_string = await page.$eval('#def_body_detail_height > h1' , el => el.innerHTML);
-        market_cap_data_string = market_cap_data_string.trim();
+        // let market_cap_url = `https://www.gurufocus.com/term/mktcap/${stocks_symbols[i]}`;
+        // await page.goto(market_cap_url , { waitUntil: 'networkidle2' });
+        // let market_cap_data_string = await page.$eval('#def_body_detail_height > h1' , el => el.innerHTML);
+        // market_cap_data_string = market_cap_data_string.trim();
 
-        if(market_cap_data_string.includes("Mil")){
-            let mc_arru = market_cap_data_string.split(">: ");
-            if(mc_arru[1]){
-                let final_mc = mc_arru[1].split(" ")[0];
+        // if(market_cap_data_string.includes("Mil")){
+        //     let mc_arru = market_cap_data_string.split(">: ");
+        //     if(mc_arru[1]){
+        //         let final_mc = mc_arru[1].split(" ")[0];
                 
-                let finall_mc = parseInt ( final_mc.substring(1 , final_mc.length).replace(/\,/g, '') );
-                let finall_mc_cr = finall_mc / 10;
+        //         let finall_mc = parseInt ( final_mc.substring(1 , final_mc.length).replace(/\,/g, '') );
+        //         let finall_mc_cr = finall_mc / 10;
 
-                if(filter_value_low > finall_mc_cr){
-                    console.log(`${stocks_symbols[i]}_${i}: Market cap is ${finall_mc_cr} cr. which is lower than ${filter_value_low} cr. and higher than ${filter_value_high} cr.`)
-                    continue;
-                }
-            }
-        }
+        //         if(filter_value_low > finall_mc_cr){
+        //             console.log(`${stocks_symbols[i]}_${i}: Market cap is ${finall_mc_cr} cr. which is lower than ${filter_value_low} cr. and higher than ${filter_value_high} cr.`)
+        //             continue;
+        //         }
+        //     }
+        // }
 
         // market cap filter [End]   //
 
@@ -231,13 +263,13 @@ const scrapeFundamentalData = async (username , password) => {
     }
     //==================================Premium data=============================================//
     
-    /*fs.writeFile(`./download_reports/report_${exchange}_s${starttt}_e${enddd}_${new Date().toISOString().split("T")[0]}.txt` , download_reps , err => {
+    fs.writeFile(`./download_reports_dep/report_${exchange}_s${starttt}_e${enddd}_${new Date().toISOString().split("T")[0]}.txt` , download_reps , err => {
         if(err){
             console.log(err);
         }else{
             console.log("Files write success!");
         }
-    })*/
+    })
 
     await browser.close();
 

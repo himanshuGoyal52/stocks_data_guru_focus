@@ -1,0 +1,186 @@
+Mongodb Connected :)
+NSE:TAC company started
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [days_inventory]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [days_payable]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:TAC_701  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TAC_701  : Done
+NSE:TNTELE company started
+NSE:TNTELE_702  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TNTELE_702  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TNTELE_702  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TNTELE_702  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_payout_ratio]
+NSE:TNTELE_702  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TNTELE_702  : Done
+NSE:TAPIFRUIT company started
+NSE:TAPIFRUIT_703  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TAPIFRUIT_703  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TAPIFRUIT_703  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TAPIFRUIT_703  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TAPIFRUIT_703  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TAPIFRUIT_703  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TAPIFRUIT_703  : Done
+NSE:TARACHAND company started
+NSE:TARACHAND_704  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TARACHAND_704  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TARACHAND_704  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TARACHAND_704  : Done
+NSE:TCS company started
+NSE:TCS_705  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TCS_705  : Done
+NSE:TATAMOTORS company started
+NSE:TATAMOTORS_706  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TATAMOTORS_706  : Done
+NSE:TATASTEEL company started
+NSE:TATASTEEL_707  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TATASTEEL_707  : Done
+NSE:TBI company started
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:TBI_708  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TBI_708  : Done
+NSE:TBOTEK company started
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:TBOTEK_709  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TBOTEK_709  : Done
+NSE:TEAMLEASE company started
+NSE:TEAMLEASE_710  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TEAMLEASE_710  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TEAMLEASE_710  : Done
+NSE:TECHERA company started
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:TECHERA_711  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TECHERA_711  : Done
+NSE:TECHNOFAB company started
+NSE:TECHNOFAB_712  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TECHNOFAB_712  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TECHNOFAB_712  : Done
+NSE:TGL company started
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:TGL_713  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TGL_713  : Done
+NSE:TEMBO company started
+NSE:TEMBO_714  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TEMBO_714  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TEMBO_714  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TEMBO_714  : Done
+NSE:TEXMOPIPES company started
+NSE:TEXMOPIPES_715  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TEXMOPIPES_715  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TEXMOPIPES_715  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TEXMOPIPES_715  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TEXMOPIPES_715  : Done
+NSE:TCL company started
+NSE:TCL_716  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TCL_716  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TCL_716  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TCL_716  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TCL_716  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TCL_716  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TCL_716  : Done
+NSE:FEDERALBNK company started
+NSE:FEDERALBNK_717  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:FEDERALBNK_717  : The value of "offset" is out of range. It must be >= 0 && <= 17825792. Received 17825794
+NSE:GROBTEA company started
+NSE:GROBTEA_718  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:GROBTEA_718  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:GROBTEA_718  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:GROBTEA_718  : Done
+NSE:UNITEDTEA company started
+NSE:UNITEDTEA_719  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:UNITEDTEA_719  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:UNITEDTEA_719  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:UNITEDTEA_719  : Done
+NSE:WIPL company started
+NSE:WIPL_720  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:WIPL_720  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:WIPL_720  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:WIPL_720  : Done
+NSE:THEJO company started
+NSE:THEJO_721  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:THEJO_721  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:THEJO_721  : Done
+NSE:THERMAX company started
+NSE:THERMAX_722  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:THERMAX_722  : Done
+NSE:THESL company started
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:THESL_723  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:THESL_723  : Done
+NSE:THOMASCOOK company started
+NSE:THOMASCOOK_724  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:THOMASCOOK_724  : Done
+NSE:THYROCARE company started
+NSE:THYROCARE_725  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:THYROCARE_725  : Done
+NSE:TIMESCAN company started
+NSE:TIMESCAN_726  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TIMESCAN_726  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TIMESCAN_726  : Unexpected token 'd', " dataString"... is not valid JSON [inventory_turnover]
+NSE:TIMESCAN_726  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TIMESCAN_726  : Done
+NSE:TIRUPATIFL company started
+NSE:TIRUPATIFL_727  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TIRUPATIFL_727  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TIRUPATIFL_727  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TIRUPATIFL_727  : Done
+NSE:TITAN company started
+NSE:TITAN_728  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TITAN_728  : Done
+NSE:TOKYOPLAST company started
+NSE:TOKYOPLAST_729  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TOKYOPLAST_729  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TOKYOPLAST_729  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TOKYOPLAST_729  : Done
+NSE:TOLINS company started
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [institutional_ownership]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [f_c_f_yield_]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [forward_p_e_ratio]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [p_e_g_ratio]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [price_to_owner_earnings]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [total_payout_yield_]
+NSE:TOLINS_730  : Unexpected token 'd', " dataString"... is not valid JSON [dividend_yield_]
+NSE:TOLINS_730  : Done
+NSE:TORNTPHARM company started
+NSE:TORNTPHARM_731  : Unexpected token 'd', " dataString"... is not valid JSON [insider_ownership]
+NSE:TORNTPHARM_731  : Done
+
+// 732 se 798 is done hehehe
